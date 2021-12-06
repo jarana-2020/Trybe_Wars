@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Trybe_Wars/static/css/main.28503a2d.chunk.css",
+    "main.js": "/Trybe_Wars/static/js/main.6c6ed49f.chunk.js",
+    "main.js.map": "/Trybe_Wars/static/js/main.6c6ed49f.chunk.js.map",
+    "runtime-main.js": "/Trybe_Wars/static/js/runtime-main.826bf62d.js",
+    "runtime-main.js.map": "/Trybe_Wars/static/js/runtime-main.826bf62d.js.map",
+    "static/js/2.260e3c05.chunk.js": "/Trybe_Wars/static/js/2.260e3c05.chunk.js",
+    "static/js/2.260e3c05.chunk.js.map": "/Trybe_Wars/static/js/2.260e3c05.chunk.js.map",
+    "index.html": "/Trybe_Wars/index.html",
+    "precache-manifest.5d3e7784e727c0abeb7b04f4e2991258.js": "/Trybe_Wars/precache-manifest.5d3e7784e727c0abeb7b04f4e2991258.js",
+    "service-worker.js": "/Trybe_Wars/service-worker.js",
+    "static/css/main.28503a2d.chunk.css.map": "/Trybe_Wars/static/css/main.28503a2d.chunk.css.map",
+    "static/js/2.260e3c05.chunk.js.LICENSE.txt": "/Trybe_Wars/static/js/2.260e3c05.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Trybe_Wars/static/media/Starjedi.cc3019aa.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.826bf62d.js",
+    "static/js/2.260e3c05.chunk.js",
+    "static/css/main.28503a2d.chunk.css",
+    "static/js/main.6c6ed49f.chunk.js"
+  ]
+}
